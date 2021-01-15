@@ -88,3 +88,4 @@ D:\Software development\C Sharp Practice\ASP.NET WEB API\Movies.Asp.NetWebApi\Mo
 D:\Software development\C Sharp Practice\ASP.NET WEB API\Movies.Asp.NetWebApi\Movies.Asp.NetWebApi\bin\EntityFramework.SqlServer.xml
 D:\Software development\C Sharp Practice\ASP.NET WEB API\Movies.Asp.NetWebApi\Movies.Asp.NetWebApi\obj\Debug\Movies.Asp.NetWebApi.Migrations.Prva.resources
 D:\Software development\C Sharp Practice\ASP.NET WEB API\Movies.Asp.NetWebApi\Movies.Asp.NetWebApi\obj\Debug\Movies.Asp.NetWebApi.csproj.GenerateResource.cache
+D:\Software development\C Sharp Practice\ASP.NET WEB API\Movies.Asp.NetWebApi\Movies.Asp.NetWebApi\obj\Debug\Movies.Asp.NetWebApi.Migrations.Druga.resources

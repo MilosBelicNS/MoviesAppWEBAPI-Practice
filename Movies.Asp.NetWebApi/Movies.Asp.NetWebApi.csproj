@@ -172,7 +172,12 @@
     <Compile Include="Migrations\202101141400101_Prva.designer.cs">
       <DependentUpon>202101141400101_Prva.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202101151252576_Druga.cs" />
+    <Compile Include="Migrations\202101151252576_Druga.designer.cs">
+      <DependentUpon>202101151252576_Druga.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\CurrentDateAttribute.cs" />
     <Compile Include="Models\Director.cs" />
     <Compile Include="Models\Movie.cs" />
     <Compile Include="Models\MoviesDbContext.cs" />
@@ -265,6 +270,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202101141400101_Prva.resx">
       <DependentUpon>202101141400101_Prva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202101151252576_Druga.resx">
+      <DependentUpon>202101151252576_Druga.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
